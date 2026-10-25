@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aura_icon_background">#07101F</color>
+    <color name="aura_cyan">#19DDF7</color>
+    <color name="aura_navy">#07101F</color>
+    <color name="aura_panel">#141F34</color>
+    <color name="aura_white">#FFFFFF</color>
+</resources>
